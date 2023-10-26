@@ -1,0 +1,19 @@
+COTS/2-HAL/6-MOTORS/MOTORS_program.o COTS/2-HAL/6-MOTORS/MOTORS_program.o:  \
+ ../COTS/2-HAL/6-MOTORS/MOTORS_program.c \
+  ../COTS/2-HAL/6-MOTORS/STD_TYPES.h ../COTS/2-HAL/6-MOTORS/BIT_MATH.h \
+  ../COTS/2-HAL/6-MOTORS/MOTORS_interface.h \
+  ../COTS/2-HAL/6-MOTORS/MOTORS_Private.h \
+  ../COTS/2-HAL/6-MOTORS/MOTORS_config.h \
+  ../COTS/2-HAL/6-MOTORS/../../1-MCAL/1-DIO/DIO_interface.h
+
+../COTS/2-HAL/6-MOTORS/STD_TYPES.h:
+
+../COTS/2-HAL/6-MOTORS/BIT_MATH.h:
+
+../COTS/2-HAL/6-MOTORS/MOTORS_interface.h:
+
+../COTS/2-HAL/6-MOTORS/MOTORS_Private.h:
+
+../COTS/2-HAL/6-MOTORS/MOTORS_config.h:
+
+../COTS/2-HAL/6-MOTORS/../../1-MCAL/1-DIO/DIO_interface.h:

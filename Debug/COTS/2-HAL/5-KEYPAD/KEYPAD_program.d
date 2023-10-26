@@ -1,0 +1,17 @@
+COTS/2-HAL/5-KEYPAD/KEYPAD_program.o COTS/2-HAL/5-KEYPAD/KEYPAD_program.o:  \
+ ../COTS/2-HAL/5-KEYPAD/KEYPAD_program.c \
+  ../COTS/2-HAL/5-KEYPAD/STD_TYPES.h \
+  ../COTS/2-HAL/5-KEYPAD/../../1-MCAL/1-DIO/DIO_interface.h \
+  ../COTS/2-HAL/5-KEYPAD/KEYPAD_config.h \
+  ../COTS/2-HAL/5-KEYPAD/KEYPAD_interface.h \
+  ../COTS/2-HAL/5-KEYPAD/KEYPAD_private.h
+
+../COTS/2-HAL/5-KEYPAD/STD_TYPES.h:
+
+../COTS/2-HAL/5-KEYPAD/../../1-MCAL/1-DIO/DIO_interface.h:
+
+../COTS/2-HAL/5-KEYPAD/KEYPAD_config.h:
+
+../COTS/2-HAL/5-KEYPAD/KEYPAD_interface.h:
+
+../COTS/2-HAL/5-KEYPAD/KEYPAD_private.h:
